@@ -1,0 +1,3 @@
+CompileFlags:
+  CompilationDatabase: build/
+  Remove: [-mlongcalls, -mtext-section-literals, -fipa-pta, -mfix-esp32-psram-cache-issue, -mfix-esp32-psram-cache-strategy=memw, -fstrict-volatile-bitfields, -fno-tree-switch-conversion]
